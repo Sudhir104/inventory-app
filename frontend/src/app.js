@@ -1,5 +1,5 @@
 const { useState, useEffect, useCallback } = React;
-const API = "http://localhost:8000";
+const API = "https://inventory-app-eac7.onrender.com";
 
 // ── helpers ──────────────────────────────────────────────────────────────────
 
